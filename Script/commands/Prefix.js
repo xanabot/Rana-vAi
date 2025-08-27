@@ -39,15 +39,15 @@ module.exports.handleEvent = async ({ event, api, Threads }) => {
         `════════════════════\n` +
         `🌀 Prefix: ⇉ [ ${prefix} ]\n` +
         `════════════════════\n` +
-        `👑 Owner: 𝐑𝐎𝐍𝐈\n` +
+        `👑 Owner: 𝐑𝐀𝐍𝐀\n` +
         `════════════════════\n` +
-        `𝗕𝗼𝘁 𝗡𝗮𝗺𝗲: 𝐑𝐎𝐍𝐈 𝐂𝐡𝐚𝐭𝐁𝐨𝐭\n` +
+        `𝗕𝗼𝘁 𝗡𝗮𝗺𝗲: 𝐑𝐀𝐍𝐀 𝐂𝐡𝐚𝐭𝐁𝐨𝐭\n` +
         `════════════════════\n` +
-        `🌐 Facebook ID: www.facebook.com/100091476273776\n` +
+        `🌐 Facebook ID: www.facebook.com/61557180704764\n` +
         `════════════════════\n` +
-        `📞 WhatsApp: https://wa.me/+8801742465936\n` +
+        `📞 WhatsApp: https://wa.me/+971581156686\n` +
         `════════════════════\n` +
-        `Messenger: m.me/100091476273776\n` +
+        `Messenger: m.me/61557180704764\n` +
         `════════════════════`
       );
     }
